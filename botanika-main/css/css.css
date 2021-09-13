@@ -1,0 +1,39 @@
+header{
+    display: flex;
+    width: 1920px;
+    height: 64px;
+    margin: 26px 0px 0px 0px;
+    border: 1px solid #AE7C78;
+
+
+}
+
+.header-container{
+    width: 1920px;
+    margin: 0 auto;
+}
+
+
+
+
+
+.logo{
+    margin: 16px 62px 16px 62px;
+}
+
+.nav{
+    display: flex;
+    background-color:rgb(230, 80, 250);
+    justify-content:space-between;
+    
+}
+
+.nav ul{
+    display: flex;
+}
+
+.nav li{
+    display: flex;
+    height: 20px;
+    padding:0px 120px;
+}
